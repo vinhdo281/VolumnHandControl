@@ -10,7 +10,6 @@ from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
 #########################
 wCam, hCam = 640,480
 #########################
-
 pTime = 0
 cTime = 0
 cap = cv2.VideoCapture(1)
